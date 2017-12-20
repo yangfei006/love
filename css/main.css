@@ -316,8 +316,17 @@ a {
 .desk-continer .file .video {
   background-position: -525px -195px;
 }
-.desk-continer .file .picture {
+.desk-continer .file .picture{
   background: url(../images/xin.jpg) no-repeat;
+  width: 62px;
+  height: 62px;
+  display: block;
+  margin: 0 auto;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+.desk-continer .file .love{
+  background: url(../images/love.png) no-repeat;
   width: 62px;
   height: 62px;
   display: block;
@@ -359,12 +368,25 @@ a {
   transition: all 0.5s ease-in-out;
 }
 .iframe .goback {
+   display: block;
+   position: absolute;
+   z-index: 1;
+   transition: all 0.5s ease;
+   font-size: 20px;
+   color: #fff;
+   padding: 5px 10px;
+   border-radius: 10px;
+   background-color: rgba(255, 255, 255, 0.3);
+   bottom: 35px;
+   left: 10px;
+ }
+.iframe .gobacklove{
   display: block;
   position: absolute;
   z-index: 1;
   transition: all 0.5s ease;
   font-size: 20px;
-  color: #fff;
+  color: #f00;
   padding: 5px 10px;
   border-radius: 10px;
   background-color: rgba(255, 255, 255, 0.3);

@@ -22,6 +22,13 @@ var deskData = [
 	},
 	{
 		id : 4,
+		title : "love",
+		data : "2017-10-5",
+		type : "love",
+		typeId : "love"
+	},
+	{
+		id : 5,
 		title : "日历",
 		data : "2016-10-15",
 		type : "calendar",

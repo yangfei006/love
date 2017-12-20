@@ -111,19 +111,23 @@
 			var _this = this;
 			var music = $("music"); //音乐
 			var picture = $("picture"); //照片墙
+			var love = $("love");
 			var calendar = $("calendar");
 			
 			var iframeMusic = $("iframeMusic"); // iframe 音乐
 			var iframephoto = $("iframephoto"); // iframe 照片
+			var iframelove = $("iframelove");
 			var cdPanel = $("cdPanel"); //日历盒子
 			
 			
 			var goBack = $("goback");
 			var goBack1 = $("goback1");
+			var goBack2 = $("goback2");
 			var closeBtn = cdPanel.querySelector(".closeBtn");
 			
 			if(music)dbEvent(music,iframeMusic,goBack);
 			if(picture)dbEvent(picture,iframephoto,goBack1);
+			if(love)dbEvent(love,iframelove,goBack2);
 			if(calendar){
 				_this.onEvent(calendar,"dblclick",function(){
 					mTween(cdPanel, {bottom:0}, 300, "easeIn");
@@ -272,7 +276,7 @@
 					itemdoms[i],
 					{
 						left:position+(space * (col-1)),
-						top:position+(space *row)
+						top: position+(space * row)+(20 * row)
 					},
 					300,
 					"easeIn");
