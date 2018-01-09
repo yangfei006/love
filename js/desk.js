@@ -142,9 +142,19 @@
 			function dbEvent(obj,child,goback){
 				_this.onEvent(obj,"dblclick",function(){
 					child.style.left=0;
+					if(obj == $("love")){
+						var obj1=document.getElementById("llove").contentWindow;
+						var ifmObj=obj1.document.getElementById("aa");
+						ifmObj.play();
+					}
 				});
 				_this.onEvent(goback,"click",function(){
 					child.style.left="100%";
+					if(goback == $("goback2")){
+						var obj1=document.getElementById("llove").contentWindow;
+						var ifmObj=obj1.document.getElementById("aa");
+						ifmObj.pause();
+					}
 				});
 			}
 		},
