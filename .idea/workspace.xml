@@ -6,10 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="885df0c9-54f1-452c-82af-18c54db81ddc" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/desk.js" afterPath="$PROJECT_DIR$/js/desk.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/love/index.html" afterPath="$PROJECT_DIR$/love/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/music/index.html" afterPath="$PROJECT_DIR$/music/index.html" />
     </list>
     <ignored path="love.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -32,11 +28,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="129">
-              <caret line="132" column="45" selection-start-line="132" selection-start-column="45" selection-end-line="132" selection-end-column="45" />
+            <state relative-caret-position="1890">
+              <caret line="70" column="41" selection-start-line="70" selection-start-column="41" selection-end-line="70" selection-end-column="41" />
               <folding />
             </state>
           </provider>
@@ -45,24 +41,22 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/love/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
+            <state relative-caret-position="1161">
               <caret line="43" column="38" selection-start-line="43" selection-start-column="38" selection-end-line="43" selection-end-column="38" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="desk.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="desk.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/desk.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="407">
-              <caret line="148" column="21" selection-start-line="148" selection-start-column="21" selection-end-line="148" selection-end-column="21" />
+            <state relative-caret-position="135">
+              <caret line="208" column="41" selection-start-line="208" selection-start-column="27" selection-end-line="208" selection-end-column="41" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
                 <element signature="e#1489#2843#0" expanded="false" />
                 <element signature="e#4969#5520#0" expanded="false" />
-                <element signature="e#5830#6548#0" expanded="false" />
-                <element signature="e#6587#7595#0" expanded="false" />
                 <element signature="e#7633#8353#0" expanded="false" />
                 <element signature="e#8388#9011#0" expanded="false" />
                 <element signature="e#9045#9719#0" expanded="false" />
@@ -85,8 +79,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/music/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="25" column="50" selection-start-line="25" selection-start-column="50" selection-end-line="25" selection-end-column="50" />
+            <state relative-caret-position="3105">
+              <caret line="115" column="0" selection-start-line="115" selection-start-column="0" selection-end-line="118" selection-end-column="66" />
               <folding />
             </state>
           </provider>
@@ -105,8 +99,28 @@
       <file leaf-file-name="jsonp.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/music/js/jsonp.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="189">
+              <caret line="7" column="37" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="music.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/music/js/music.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1782">
+              <caret line="66" column="41" selection-start-line="66" selection-start-column="41" selection-end-line="66" selection-end-column="41" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="xueer.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/xueer.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="243">
+              <caret line="9" column="36" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
               <folding />
             </state>
           </provider>
@@ -134,10 +148,10 @@
         <option value="$PROJECT_DIR$/css/main.css" />
         <option value="$PROJECT_DIR$/love/renxi/default.css" />
         <option value="$PROJECT_DIR$/photowall/index.html" />
-        <option value="$PROJECT_DIR$/xueer.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/love/index.html" />
         <option value="$PROJECT_DIR$/music/index.html" />
+        <option value="$PROJECT_DIR$/xueer.html" />
         <option value="$PROJECT_DIR$/js/desk.js" />
       </list>
     </option>
@@ -149,9 +163,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
+    <option name="x" value="-1" />
+    <option name="y" value="1" />
+    <option name="width" value="1894" />
     <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -179,6 +193,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -222,13 +237,16 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="love" />
+              <option name="myItemId" value="music" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -332,25 +350,33 @@
       <workItem from="1515117754498" duration="3760000" />
       <workItem from="1515376410003" duration="4116000" />
       <workItem from="1515388402518" duration="597000" />
-      <workItem from="1515463612016" duration="3075000" />
+      <workItem from="1515463612016" duration="6678000" />
+      <workItem from="1515547628801" duration="713000" />
+      <workItem from="1515567069554" duration="1963000" />
+      <workItem from="1515634533722" duration="84000" />
+      <workItem from="1515653837364" duration="607000" />
+      <workItem from="1515719649476" duration="7536000" />
+      <workItem from="1515978766015" duration="36000" />
+      <workItem from="1516262789821" duration="1314000" />
+      <workItem from="1516327148344" duration="612000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43239000" />
+    <option name="totallyTimeSpent" value="59707000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
+    <frame x="-1" y="1" width="1894" height="1056" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14541623" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14439656" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -391,8 +417,6 @@
             <element signature="n#!!doc" expanded="true" />
             <element signature="e#1489#2843#0" expanded="false" />
             <element signature="e#4969#5520#0" expanded="false" />
-            <element signature="e#5830#6548#0" expanded="false" />
-            <element signature="e#6587#7595#0" expanded="false" />
             <element signature="e#7633#8353#0" expanded="false" />
             <element signature="e#8388#9011#0" expanded="false" />
             <element signature="e#9045#9719#0" expanded="false" />
@@ -449,8 +473,6 @@
             <element signature="n#!!doc" expanded="true" />
             <element signature="e#1489#2843#0" expanded="false" />
             <element signature="e#4969#5520#0" expanded="false" />
-            <element signature="e#5830#6548#0" expanded="false" />
-            <element signature="e#6587#7595#0" expanded="false" />
             <element signature="e#7633#8353#0" expanded="false" />
             <element signature="e#8388#9011#0" expanded="false" />
             <element signature="e#9045#9719#0" expanded="false" />
@@ -499,8 +521,6 @@
             <element signature="n#!!doc" expanded="true" />
             <element signature="e#1489#2843#0" expanded="false" />
             <element signature="e#4969#5520#0" expanded="false" />
-            <element signature="e#5830#6548#0" expanded="false" />
-            <element signature="e#6587#7595#0" expanded="false" />
             <element signature="e#7633#8353#0" expanded="false" />
             <element signature="e#8388#9011#0" expanded="false" />
             <element signature="e#9045#9719#0" expanded="false" />
@@ -638,13 +658,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/music/js/music.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/music/laypage/laypage.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -726,17 +739,58 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/xueer.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/photowall/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="5346">
           <caret line="198" column="0" selection-start-line="198" selection-start-column="0" selection-end-line="198" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/music/js/jsonp.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="37" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/music/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3105">
+          <caret line="115" column="0" selection-start-line="115" selection-start-column="0" selection-end-line="118" selection-end-column="66" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/music/js/music.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1782">
+          <caret line="66" column="41" selection-start-line="66" selection-start-column="41" selection-end-line="66" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/love/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1161">
+          <caret line="43" column="38" selection-start-line="43" selection-start-column="38" selection-end-line="43" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1890">
+          <caret line="70" column="41" selection-start-line="70" selection-start-column="41" selection-end-line="70" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xueer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="36" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
           <folding />
         </state>
       </provider>
@@ -749,53 +803,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/music/js/jsonp.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/love/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="43" column="38" selection-start-line="43" selection-start-column="38" selection-end-line="43" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/music/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="25" column="50" selection-start-line="25" selection-start-column="50" selection-end-line="25" selection-end-column="50" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/desk.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="407">
-          <caret line="148" column="21" selection-start-line="148" selection-start-column="21" selection-end-line="148" selection-end-column="21" />
+        <state relative-caret-position="135">
+          <caret line="208" column="41" selection-start-line="208" selection-start-column="27" selection-end-line="208" selection-end-column="41" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
             <element signature="e#1489#2843#0" expanded="false" />
             <element signature="e#4969#5520#0" expanded="false" />
-            <element signature="e#5830#6548#0" expanded="false" />
-            <element signature="e#6587#7595#0" expanded="false" />
             <element signature="e#7633#8353#0" expanded="false" />
             <element signature="e#8388#9011#0" expanded="false" />
             <element signature="e#9045#9719#0" expanded="false" />
             <element signature="e#9763#10071#0" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="129">
-          <caret line="132" column="45" selection-start-line="132" selection-start-column="45" selection-end-line="132" selection-end-column="45" />
-          <folding />
         </state>
       </provider>
     </entry>
